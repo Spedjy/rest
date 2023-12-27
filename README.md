@@ -11,8 +11,8 @@ npm (Управлятель пакетов Node)
 
 Клонируйте репозиторий:
 ```
-git clone https://github.com/your-username/product-manager-api.git
-cd product-manager-api
+git clone https://github.com/Spedjy/rest
+cd C:/
 ```
 Установите зависимости:
 ```
